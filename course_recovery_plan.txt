@@ -1,0 +1,134 @@
+RecoveryID,StudentID,CourseName,StudyWeek,Task,Status,Deadline
+RB2932,S001,Data Structures,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R81B16,S001,Data Structures,Week 3,Meeting with module lecturer,Completed,2025-12-15
+R19A71,S001,Data Structures,Week 4,Take recovery exam,Pending,2025-12-22
+R34E09,S001,Algorithms,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+REB54C,S001,Algorithms,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R8B6A2,S001,Algorithms,Week 4,Take recovery exam,Pending,2025-12-22
+R9B9BE,S001,Operating Systems,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R91B9D,S001,Operating Systems,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RD907E,S001,Operating Systems,Week 4,Take recovery exam,Pending,2025-12-22
+RBD47C,S001,Networking,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R95B23,S001,Networking,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R9F61D,S001,Networking,Week 4,Take recovery exam,Pending,2025-12-22
+R13645,S002,Linguistics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R96E28,S002,Linguistics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RC63F7,S002,Linguistics,Week 4,Take recovery exam,Pending,2025-12-22
+R4ED7B,S007,English Composition,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RBD733,S007,English Composition,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RC9A53,S007,English Composition,Week 4,Take recovery exam,Pending,2025-12-22
+RC02D9,S013,Operating Systems,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R114A1,S013,Operating Systems,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RD9890,S013,Operating Systems,Week 4,Take recovery exam,Pending,2025-12-22
+RD46B0,S016,History,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R19164,S016,History,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RD264B,S016,History,Week 4,Take recovery exam,Pending,2025-12-22
+R2F613,S029,English Composition,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RC397A,S029,English Composition,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R6B672,S029,English Composition,Week 4,Take recovery exam,Pending,2025-12-22
+RA2F25,S030,Literature,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+REBAC7,S030,Literature,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R99A13,S030,Literature,Week 4,Take recovery exam,Pending,2025-12-22
+R4837B,S033,Economics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+REA7DE,S033,Economics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R5D09C,S033,Economics,Week 4,Take recovery exam,Pending,2025-12-22
+R7E723,S046,Data Analysis,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RA768D,S046,Data Analysis,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R8AA2F,S046,Data Analysis,Week 4,Take recovery exam,Pending,2025-12-22
+RFF9E7,S047,Mathematics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RE996C,S047,Mathematics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RC5E90,S047,Mathematics,Week 4,Take recovery exam,Pending,2025-12-22
+R75785,S047,Mechanics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R83A05,S047,Mechanics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RD634D,S047,Mechanics,Week 4,Take recovery exam,Pending,2025-12-22
+R42BF5,S048,Data Analysis,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RBA6FF,S048,Data Analysis,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R6E786,S048,Data Analysis,Week 4,Take recovery exam,Pending,2025-12-22
+RD1BDB,S049,Chemistry,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R4BD50,S049,Chemistry,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R9726B,S049,Chemistry,Week 4,Take recovery exam,Pending,2025-12-22
+R3C748,S051,Physics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R319E1,S051,Physics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RC0A1F,S051,Physics,Week 4,Take recovery exam,Pending,2025-12-22
+R6685D,S054,Philosophy,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RE7F92,S054,Philosophy,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R89247,S054,Philosophy,Week 4,Take recovery exam,Pending,2025-12-22
+R1D7F7,S058,History,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RAE394,S058,History,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RBF5D5,S058,History,Week 4,Take recovery exam,Pending,2025-12-22
+R0536A,S059,Mechanics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R61E05,S059,Mechanics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R3E363,S059,Mechanics,Week 4,Take recovery exam,Pending,2025-12-22
+R260E4,S065,Ethics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R13E7E,S065,Ethics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RD139A,S065,Ethics,Week 4,Take recovery exam,Pending,2025-12-22
+R60023,S066,Accounting,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RB373F,S066,Accounting,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R71017,S066,Accounting,Week 4,Take recovery exam,Pending,2025-12-22
+R94C53,S077,Environmental Science,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R84DCA,S077,Environmental Science,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R4132A,S077,Environmental Science,Week 4,Take recovery exam,Pending,2025-12-22
+R92352,S077,Genetics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RD452F,S077,Genetics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R4F580,S077,Genetics,Week 4,Take recovery exam,Pending,2025-12-22
+RBBC01,S083,Accounting,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R279A0,S083,Accounting,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RF6402,S083,Accounting,Week 4,Take recovery exam,Pending,2025-12-22
+RA6F95,S091,Physics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R7254B,S091,Physics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R232BF,S091,Physics,Week 4,Take recovery exam,Pending,2025-12-22
+R39D1A,S091,Genetics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R283E2,S091,Genetics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R0AE3A,S091,Genetics,Week 4,Take recovery exam,Pending,2025-12-22
+RDCC30,S092,Economics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R07EEE,S092,Economics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RF0A5B,S092,Economics,Week 4,Take recovery exam,Pending,2025-12-22
+R555F2,S092,Business Management,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RAB344,S092,Business Management,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R862B8,S092,Business Management,Week 4,Take recovery exam,Pending,2025-12-22
+R12165,S092,Accounting,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RD3EF6,S092,Accounting,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R1DA62,S092,Accounting,Week 4,Take recovery exam,Pending,2025-12-22
+RB7239,S093,Statistics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R3E483,S093,Statistics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R19FC4,S093,Statistics,Week 4,Take recovery exam,Pending,2025-12-22
+RAAE62,S093,Mathematics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R8B210,S093,Mathematics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RADF86,S093,Mathematics,Week 4,Take recovery exam,Pending,2025-12-22
+RDB738,S093,Computer Science,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RE6CFC,S093,Computer Science,Week 3,Meeting with module lecturer,Pending,2025-12-15
+REA9FA,S093,Computer Science,Week 4,Take recovery exam,Pending,2025-12-22
+RDA343,S094,Philosophy,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RC5A52,S094,Philosophy,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R2A5A1,S094,Philosophy,Week 4,Take recovery exam,Pending,2025-12-22
+R309E3,S094,Linguistics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RD64AF,S094,Linguistics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RC1E8E,S094,Linguistics,Week 4,Take recovery exam,Pending,2025-12-22
+R4C0AF,S095,History,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R8A6B2,S095,History,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R2D8EC,S095,History,Week 4,Take recovery exam,Pending,2025-12-22
+RAE464,S097,Philosophy,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RD63C1,S097,Philosophy,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R127E3,S097,Philosophy,Week 4,Take recovery exam,Pending,2025-12-22
+R38953,S097,Sociology,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RC1533,S097,Sociology,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R24473,S097,Sociology,Week 4,Take recovery exam,Pending,2025-12-22
+RCB87F,S097,Economics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R02B67,S097,Economics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R4858C,S097,Economics,Week 4,Take recovery exam,Pending,2025-12-22
+R73C80,S098,English Composition,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+RFA729,S098,English Composition,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RC83E1,S098,English Composition,Week 4,Take recovery exam,Pending,2025-12-22
+R46C76,S099,Algorithms,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R8685B,S099,Algorithms,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RADBEE,S099,Algorithms,Week 4,Take recovery exam,Pending,2025-12-22
+R5185A,S100,Statistics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R9DC10,S100,Statistics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RD5BE1,S100,Statistics,Week 4,Take recovery exam,Pending,2025-12-22
+RD8CD8,S100,Mathematics,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R21BC5,S100,Mathematics,Week 3,Meeting with module lecturer,Pending,2025-12-15
+RE7EDD,S100,Mathematics,Week 4,Take recovery exam,Pending,2025-12-22
+R4C1F3,S100,Probability,Week 1 – 2,Review all lecture topic,Pending,2025-12-08
+R2E0C6,S100,Probability,Week 3,Meeting with module lecturer,Pending,2025-12-15
+R62F8C,S100,Probability,Week 4,Take recovery exam,Pending,2025-12-22
+R735A5,S001,Data Structure,Week 5,Review all assignment,Pending,2026-01-01

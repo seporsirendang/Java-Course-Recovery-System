@@ -1,0 +1,202 @@
+-StudentID;FirstName;LastName;Major;Email;Course1;Course2;Course3;Course4;Course5;Course6;Grade1;Credit1;Grade2;Credit2;Grade3;Credit3;Grade4;Credit4;Grade5;Credit5;Grade6;Credit6;CGPA
+
+S001;Hannah;Johnson;Computer Science;hannah.johnson@university.edu;Data Structures;Algorithms;Software Engineering;Operating Systems;Database Systems;Networking;49;D;30;F;77;A;43;D;58;C;16;F;2.10
+
+S002;Oscar;Kumar;Literature;oscar.kumar@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;77;A;64;C;66;B;76;A;20;F;91;A;2.70
+
+S003;Charlie;Brown;Mathematics;charlie.brown@university.edu;Mathematics;Statistics;Algorithms;Data Structures;Discrete Mathematics;Probability;69;B;88;A;68;B;71;B;50;C;83;A;3.20
+
+S004;Michael;Kumar;Philosophy;michael.kumar@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;88;A;92;A;79;A;66;B;100;A;77;A;3.86
+
+S005;George;Chen;Statistics;george.chen@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;86;A;73;B;56;C;75;A;50;C;96;A;3.14
+
+S006;Rachel;Taylor;Engineering;rachel.taylor@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;87;A;87;A;99;A;56;C;67;B;60;C;3.05
+
+S007;Quinn;Brown;Philosophy;quinn.brown@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;60;C;80;A;88;A;29;F;56;C;80;A;2.93
+
+S008;Sam;Taylor;Engineering;sam.taylor@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;94;A;66;B;61;C;85;A;50;C;92;A;3.30
+
+S009;Tina;Miller;Physics;tina.miller@university.edu;Physics;Mathematics;Chemistry;Electronics;Mechanics;Thermodynamics;72;B;68;B;90;A;72;B;89;A;81;A;3.47
+
+S010;Quinn;Miller;Computer Science;quinn.miller@university.edu;Data Structures;Algorithms;Software Engineering;Operating Systems;Database Systems;Networking;69;B;70;B;74;B;95;A;55;C;100;A;3.21
+
+S011;Kevin;Smith;Engineering;kevin.smith@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;74;B;86;A;82;A;98;A;60;C;82;A;3.50
+
+S012;Charlie;Lee;Engineering;charlie.lee@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;72;B;88;A;63;C;54;C;51;C;74;B;2.60
+
+S013;George;Lee;Engineering;george.lee@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;31;F;59;C;58;C;84;A;72;B;51;C;2.15
+
+S014;Michael;Brown;Economics;michael.brown@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;64;C;77;A;96;A;55;C;72;B;89;A;3.17
+
+S015;Michael;Smith;Engineering;michael.smith@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;58;C;97;A;63;C;68;B;54;C;72;B;2.60
+
+S016;Hannah;Chen;History;hannah.chen@university.edu;History;Philosophy;Literature;Sociology;Economics;Political Science;24;F;80;A;93;A;95;A;89;A;99;A;3.33
+
+S017;Ivan;Davis;Philosophy;ivan.davis@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;99;A;87;A;86;A;59;C;53;C;79;A;3.46
+
+S018;Tina;Johnson;Mathematics;tina.johnson@university.edu;Mathematics;Statistics;Algorithms;Data Structures;Discrete Mathematics;Probability;77;A;54;C;61;C;95;A;71;B;83;A;3.05
+
+S019;Diana;Kumar;History;diana.kumar@university.edu;History;Philosophy;Literature;Sociology;Economics;Political Science;54;C;80;A;67;B;77;A;99;A;67;B;3.27
+
+S020;Hannah;Miller;Biology;hannah.miller@university.edu;Biology;Chemistry;Physics;Environmental Science;Anatomy;Genetics;59;C;69;B;82;A;92;A;94;A;50;C;3.23
+
+S021;Paula;Johnson;History;paula.johnson@university.edu;History;Philosophy;Literature;Sociology;Economics;Political Science;69;B;74;B;71;B;78;A;98;A;53;C;3.11
+
+S022;George;Smith;Mathematics;george.smith@university.edu;Mathematics;Statistics;Algorithms;Data Structures;Discrete Mathematics;Probability;87;A;76;A;84;A;89;A;68;B;71;B;3.70
+
+S023;George;Johnson;Engineering;george.johnson@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;73;B;55;C;67;B;90;A;62;C;94;A;3.15
+
+S024;Charlie;Chen;Physics;charlie.chen@university.edu;Physics;Mathematics;Chemistry;Electronics;Mechanics;Thermodynamics;95;A;82;A;68;B;70;B;98;A;68;B;3.52
+
+S025;Laura;Taylor;Statistics;laura.taylor@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;63;C;61;C;66;B;80;A;88;A;54;C;2.90
+
+S026;Diana;Kumar;Engineering;diana.kumar@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;80;A;93;A;73;B;50;C;50;C;51;C;2.75
+
+S027;Michael;Taylor;Mathematics;michael.taylor@university.edu;Mathematics;Statistics;Algorithms;Data Structures;Discrete Mathematics;Probability;93;A;57;C;82;A;58;C;95;A;65;B;3.25
+
+S028;George;Taylor;Mathematics;george.taylor@university.edu;Mathematics;Statistics;Algorithms;Data Structures;Discrete Mathematics;Probability;78;A;95;A;73;B;92;A;100;A;96;A;3.80
+
+S029;Rachel;Brown;Literature;rachel.brown@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;92;A;39;F;88;A;53;C;72;B;98;A;2.94
+
+S030;Laura;Chen;Philosophy;laura.chen@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;62;C;61;C;18;F;100;A;57;C;72;B;2.06
+
+S031;Oscar;Miller;Philosophy;oscar.miller@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;69;B;65;B;83;A;54;C;80;A;96;A;3.40
+
+S032;Kevin;Lee;History;kevin.lee@university.edu;History;Philosophy;Literature;Sociology;Economics;Political Science;61;C;56;C;59;C;84;A;87;A;63;C;2.66
+
+S033;Julia;Brown;Economics;julia.brown@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;42;D;65;B;55;C;89;A;69;B;80;A;2.82
+
+S034;Fiona;Johnson;Mathematics;fiona.johnson@university.edu;Mathematics;Statistics;Algorithms;Data Structures;Discrete Mathematics;Probability;56;C;100;A;75;A;93;A;89;A;97;A;3.60
+
+S035;Kevin;Davis;Engineering;kevin.davis@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;60;C;87;A;85;A;65;B;51;C;64;C;2.70
+
+S036;Michael;Johnson;History;michael.johnson@university.edu;History;Philosophy;Literature;Sociology;Economics;Political Science;60;C;97;A;50;C;85;A;62;C;51;C;2.44
+
+S037;Rachel;Wilson;Computer Science;rachel.wilson@university.edu;Data Structures;Algorithms;Software Engineering;Operating Systems;Database Systems;Networking;88;A;93;A;99;A;71;B;95;A;88;A;3.78
+
+S038;Laura;Lee;Philosophy;laura.lee@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;69;B;91;A;79;A;96;A;54;C;65;B;3.40
+
+S039;Julia;Davis;Philosophy;julia.davis@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;86;A;82;A;95;A;67;B;66;B;73;B;3.53
+
+S040;Bob;Chen;Biology;bob.chen@university.edu;Biology;Chemistry;Physics;Environmental Science;Anatomy;Genetics;86;A;86;A;58;C;98;A;92;A;93;A;3.64
+
+S041;Nina;Lee;Physics;nina.lee@university.edu;Physics;Mathematics;Chemistry;Electronics;Mechanics;Thermodynamics;53;C;50;C;61;C;88;A;60;C;58;C;2.31
+
+S042;Bob;Smith;Literature;bob.smith@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;61;C;100;A;53;C;61;C;63;C;60;C;2.23
+
+S043;Diana;Kumar;Economics;diana.kumar@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;55;C;96;A;83;A;94;A;68;B;67;B;3.34
+
+S044;Tina;Wilson;Economics;tina.wilson@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;93;A;80;A;84;A;62;C;80;A;57;C;3.30
+
+S045;Quinn;Smith;Economics;quinn.smith@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;56;C;54;C;80;A;90;A;64;C;69;B;2.87
+
+S046;Hannah;Brown;Statistics;hannah.brown@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;68;B;67;B;74;B;29;F;81;A;75;A;2.71
+
+S047;Ivan;Miller;Physics;ivan.miller@university.edu;Physics;Mathematics;Chemistry;Electronics;Mechanics;Thermodynamics;65;B;28;F;62;C;85;A;20;F;83;A;2.05
+
+S048;Paula;Taylor;Statistics;paula.taylor@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;94;A;78;A;99;A;33;F;82;A;73;B;3.14
+
+S049;Ethan;Kumar;Physics;ethan.kumar@university.edu;Physics;Mathematics;Chemistry;Electronics;Mechanics;Thermodynamics;84;A;55;C;46;D;66;B;74;B;94;A;2.78
+
+S050;Charlie;Kumar;Economics;charlie.kumar@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;57;C;57;C;95;A;90;A;85;A;77;A;3.30
+
+S051;Charlie;Davis;Engineering;charlie.davis@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;70;B;66;B;57;C;53;C;32;F;82;A;2.40
+
+S052;Bob;Johnson;Statistics;bob.johnson@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;80;A;100;A;57;C;62;C;53;C;86;A;2.95
+
+S053;Alice;Chen;Statistics;alice.chen@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;83;A;71;B;88;A;56;C;70;B;56;C;3.04
+
+S054;Sam;Johnson;History;sam.johnson@university.edu;History;Philosophy;Literature;Sociology;Economics;Political Science;82;A;10;F;82;A;78;A;98;A;80;A;3.55
+
+S055;Michael;Kumar;Mathematics;michael.kumar@university.edu;Mathematics;Statistics;Algorithms;Data Structures;Discrete Mathematics;Probability;51;C;76;A;84;A;93;A;64;C;77;A;3.25
+
+S056;Hannah;Kumar;Physics;hannah.kumar@university.edu;Physics;Mathematics;Chemistry;Electronics;Mechanics;Thermodynamics;99;A;78;A;78;A;93;A;64;C;75;A;3.68
+
+S057;Paula;Wilson;Statistics;paula.wilson@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;50;C;53;C;84;A;93;A;97;A;59;C;3.04
+
+S058;Diana;Wilson;Literature;diana.wilson@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;56;C;51;C;51;C;40;D;84;A;91;A;2.64
+
+S059;Tina;Smith;Physics;tina.smith@university.edu;Physics;Mathematics;Chemistry;Electronics;Mechanics;Thermodynamics;94;A;99;A;90;A;57;C;36;F;72;B;2.89
+
+S060;Bob;Wilson;Physics;bob.wilson@university.edu;Physics;Mathematics;Chemistry;Electronics;Mechanics;Thermodynamics;99;A;58;C;87;A;96;A;86;A;95;A;3.57
+
+S061;Bob;Johnson;Philosophy;bob.johnson@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;65;B;76;A;89;A;58;C;81;A;74;B;3.40
+
+S062;Rachel;Wilson;Literature;rachel.wilson@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;63;C;73;B;72;B;62;C;93;A;91;A;3.05
+
+S063;Fiona;Smith;Economics;fiona.smith@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;85;A;99;A;72;B;60;C;72;B;85;A;3.34
+
+S064;Alice;Kumar;Engineering;alice.kumar@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;83;A;61;C;84;A;72;B;80;A;97;A;3.60
+
+S065;Michael;Smith;Philosophy;michael.smith@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;85;A;56;C;58;C;62;C;93;A;43;D;2.33
+
+S066;Ivan;Brown;Economics;ivan.brown@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;88;A;88;A;52;C;70;B;29;F;95;A;2.95
+
+S067;Diana;Chen;Statistics;diana.chen@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;83;A;52;C;68;B;65;B;87;A;59;C;3.09
+
+S068;Ethan;Lee;Literature;ethan.lee@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;57;C;74;B;54;C;98;A;94;A;86;A;3.29
+
+S069;Quinn;Smith;Philosophy;quinn.smith@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;86;A;51;C;50;C;82;A;73;B;87;A;3.06
+
+S070;George;Chen;Physics;george.chen@university.edu;Physics;Mathematics;Chemistry;Electronics;Mechanics;Thermodynamics;71;B;62;C;100;A;55;C;94;A;88;A;3.10
+
+S071;Ivan;Chen;Biology;ivan.chen@university.edu;Biology;Chemistry;Physics;Environmental Science;Anatomy;Genetics;65;B;88;A;51;C;95;A;87;A;100;A;3.47
+
+S072;Laura;Taylor;Biology;laura.taylor@university.edu;Biology;Chemistry;Physics;Environmental Science;Anatomy;Genetics;54;C;84;A;51;C;71;B;64;C;93;A;2.82
+
+S073;Hannah;Taylor;Computer Science;hannah.taylor@university.edu;Data Structures;Algorithms;Software Engineering;Operating Systems;Database Systems;Networking;95;A;60;C;73;B;73;B;89;A;75;A;3.21
+
+S074;Quinn;Davis;Economics;quinn.davis@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;69;B;66;B;59;C;67;B;51;C;57;C;2.52
+
+S075;George;Taylor;History;george.taylor@university.edu;History;Philosophy;Literature;Sociology;Economics;Political Science;82;A;79;A;86;A;69;B;78;A;85;A;3.88
+
+S076;Tina;Lee;Philosophy;tina.lee@university.edu;Philosophy;History;Literature;English Composition;Logic;Ethics;68;B;96;A;59;C;76;A;71;B;57;C;2.93
+
+S077;Quinn;Chen;Biology;quinn.chen@university.edu;Biology;Chemistry;Physics;Environmental Science;Anatomy;Genetics;61;C;67;B;59;C;45;D;68;B;8;F;1.82
+
+S078;Julia;Johnson;Physics;julia.johnson@university.edu;Physics;Mathematics;Chemistry;Electronics;Mechanics;Thermodynamics;75;A;83;A;86;A;74;B;78;A;73;B;3.68
+
+S079;Bob;Kumar;Engineering;bob.kumar@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;51;C;69;B;73;B;93;A;77;A;79;A;3.20
+
+S080;Nina;Kumar;Literature;nina.kumar@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;92;A;53;C;94;A;68;B;93;A;79;A;3.58
+
+S081;Laura;Taylor;Statistics;laura.taylor@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;78;A;51;C;55;C;67;B;82;A;99;A;3.14
+
+S082;Rachel;Johnson;Economics;rachel.johnson@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;53;C;50;C;51;C;74;B;96;A;68;B;2.60
+
+S083;Diana;Kumar;Economics;diana.kumar@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;83;A;72;B;97;A;61;C;9;F;90;A;2.95
+
+S084;Bob;Lee;Engineering;bob.lee@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;51;C;71;B;64;C;66;B;72;B;97;A;2.85
+
+S085;George;Wilson;History;george.wilson@university.edu;History;Philosophy;Literature;Sociology;Economics;Political Science;100;A;81;A;100;A;78;A;69;B;50;C;3.33
+
+S086;Hannah;Wilson;Economics;hannah.wilson@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;88;A;91;A;58;C;66;B;76;A;62;C;3.13
+
+S087;Quinn;Smith;Literature;quinn.smith@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;67;B;69;B;55;C;62;C;77;A;83;A;3.11
+
+S088;Tina;Davis;Economics;tina.davis@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;62;C;84;A;84;A;63;C;80;A;79;A;3.30
+
+S089;Ivan;Taylor;Economics;ivan.taylor@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;52;C;84;A;72;B;59;C;84;A;52;C;2.78
+
+S090;George;Johnson;Engineering;george.johnson@university.edu;Operating Systems;Data Structures;Networking;Mathematics;Physics;Statistics;99;A;77;A;77;A;100;A;92;A;73;B;3.80
+
+S091;Ivan;Chen;Biology;ivan.chen@university.edu;Biology;Chemistry;Physics;Environmental Science;Anatomy;Genetics;55;C;55;C;47;D;70;B;63;C;18;F;1.82
+
+S092;Tina;Miller;Economics;tina.miller@university.edu;Economics;Statistics;Mathematics;Business Management;Accounting;Finance;43;D;52;C;63;C;29;F;19;F;64;C;1.21
+
+S093;Tina;Wilson;Statistics;tina.wilson@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;41;D;41;D;85;A;71;B;52;C;3;F;1.90
+
+S094;Julia;Brown;Literature;julia.brown@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;79;A;61;C;29;F;82;A;44;D;72;B;2.41
+
+S095;Kevin;Chen;Literature;kevin.chen@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;73;B;71;B;84;A;18;F;65;B;79;A;2.76
+
+S096;Tina;Chen;Computer Science;tina.chen@university.edu;Data Structures;Algorithms;Software Engineering;OperatingS ystems;Database Systems;Networking;99;A;70;B;66;B;87;A;58;C;68;B;3.15
+
+S097;Ethan;Brown;History;ethan.brown@university.edu;History;Philosophy;Literature;Sociology;Economics;Political Science;61;C;20;F;53;C;27;F;31;F;65;B;1.33
+
+S098;Oscar;Kumar;Literature;oscar.kumar@university.edu;Literature;English Composition;Philosophy;History;Linguistics;Creative Writing;65;B;43;D;74;B;55;C;54;C;62;C;2.17
+
+S099;Charlie;Kumar;Mathematics;charlie.kumar@university.edu;Mathematics;Statistics;Algorithms;Data Structures;Discrete Mathematics;Probability;75;A;57;C;29;F;67;B;61;C;57;C;2.09
+
+S100;Nina;Johnson;Statistics;nina.johnson@university.edu;Statistics;Mathematics;Probability;Data Analysis;Economics;Computer Science;20;F;30;F;33;F;61;C;58;C;66;B;1.04
+

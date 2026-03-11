@@ -1,0 +1,14 @@
+StaffID,FirstName,LastName,Password,Role,Status,Email,LastLogin,LastLogout,LoginStatus
+A001,Sarah,Lim,Pass@123,academic_officer,active,sarah.lim@edu.org,2025-12-13 19:05:25,2025-12-13 19:05:31,0
+A002,Daniel,Ng,Ng#789,course_admin,active,daniel.ng@edu.org,2025-12-13 19:05:40,10/6/2025 18:01,1
+A003,Aisha,Hassan,AH@2024,academic_officer,active,aisha.hassan@edu.org,10/8/2025 7:58,10/8/2025 16:40,0
+A004,Jonathan,Tan,Jt!2025,course_admin,deactivated,jon.tan@edu.org,9/30/2025 10:45,9/30/2025 11:12,0
+A005,Mei,Yap,My@OOP1,academic_officer,active,mei.yap@edu.org,10/5/2025 9:21,10/5/2025 15:45,0
+A006,Arun,Kumar,Arun#55,course_admin,active,arun.kumar@edu.org,10/7/2025 8:11,10/7/2025 17:00,0
+A007,Nurul,Azman,Nz!777,academic_officer,deactivated,nurul.azman@edu.org,9/28/2025 13:20,9/28/2025 14:00,0
+A008,Kevin,Lee,Kv@2023,course_admin,active,kevin.lee@edu.org,10/8/2025 8:59,10/8/2025 17:10,0
+A009,Siti,Rahman,SiTi#11,academic_officer,active,siti.rahman@edu.org,10/7/2025 7:30,10/7/2025 16:35,0
+A010,Marcus,Wong,Mw!4321,course_admin,active,marcus.wong@edu.org,2025-12-14 20:30:07,2025-12-14 20:08:51,1
+A011,Lala,Poo,lala,academic_officer,deactivated,lala@mail.com,2025-12-14 11:03:45,2025-12-14 11:08:49,0
+A012,Clairine,Allegra,pass123,Course Admin,deactivated,tp080008@mailapu.edu.my,-,-,0
+A013,Clairine,Muliono,newpass,course_admin,active,clairineallegram@gmail.com,2025-12-14 20:25:19,2025-12-14 20:29:56,0
