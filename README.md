@@ -29,3 +29,6 @@ git clone https://github.com/seporsirendang/Java-Course-Recovery_System.git/
   private final String password = "your_16_character_app_password";
   ```
 4. **Build and run**
+
+## Notes
+- Login information can be found in academic_staff_information.csv
