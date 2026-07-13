@@ -20,13 +20,14 @@ Before you begin, ensure you have the following installed:
 git clone https://github.com/seporsirendang/Java-Course-Recovery_System.git/
 ```
 2. **Open the project**
-3. **Configure email settings (optional)**
+3. **Configure email settings**
 - Open Email.java
 - Ensure you have 2-Step Verification enabled on your Google Account
 - Generate a 16-character App Password from your Google Security settings page
-- Replace the placeholder password string inside the file with your generated 16-character app password:
+- Replace the placeholder password string inside the file with your email and generated 16-character app password:
   ```
-  private final String password = "your_16_character_app_password";
+  protected final String fromEmail = "mail@gmail.com";
+  private final String password = "=app_password";
   ```
 4. **Build and run**
 
