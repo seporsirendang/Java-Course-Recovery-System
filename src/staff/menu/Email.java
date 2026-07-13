@@ -9,8 +9,8 @@ import javax.swing.JOptionPane;
 // Abstract class 
 public abstract class Email {
 
-    protected final String fromEmail = "violetteviov@gmail.com";
-    protected final String password = "ygdq brol bqhl cang";
+    protected final String fromEmail = "mail@gmail.com";
+    protected final String password = "app_password";
 
     // Method abstract
     public abstract void sendText(String toEmail, String subject, String body);
